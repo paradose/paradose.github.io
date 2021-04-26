@@ -53,6 +53,9 @@ const getIcon = (name: string) => {
     case 'medium':
       icon = ICONS.MEDIUM;
       break;
+    case 'spotify':
+      icon = ICONS.SPOTIFY;
+      break;
     default:
       icon = {};
       break;

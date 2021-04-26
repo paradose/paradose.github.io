@@ -48,6 +48,9 @@ const getContactHref = (name: string, contact: string) => {
     case 'medium':
       href = `https://medium.com/${contact}`;
       break;
+    case 'spotify':
+      href = `https://open.spotify.com/${contact}`;
+      break;
     default:
       href = contact;
       break;

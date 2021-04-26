@@ -1,9 +1,9 @@
 'use strict';
 
 module.exports = {
-  url: 'https://paradose.github.io/',
-  pathPrefix: 'paradose.github.io',
-  title: 'Blog by John Doe',
+  url: 'https://paradose.github.io',
+  pathPrefix:'/',
+  title: 'Lauren Lok',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
@@ -12,7 +12,7 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Blog',
       path: '/'
     },
     {
@@ -25,19 +25,19 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Lauren Lok',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Aspiring Software Engineer studying at Monash University. ',
     contacts: {
       email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      facebook: '',
+      telegram: '',
+      twitter: 'laurenllok',
+      github: 'paradose',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'lauren-lok-20544918b/',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
@@ -45,6 +45,7 @@ module.exports = {
       youtube: '',
       soundcloud: '',
       medium: '',
+      spotify: 'user/para.lauren?si=GE1WGypkSpOITA2qK474YA'
     }
   }
 };
