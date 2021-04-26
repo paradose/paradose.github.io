@@ -2,7 +2,7 @@
 
 module.exports = {
   url: 'https://paradose.github.io/',
-  pathPrefix: '/',
+  pathPrefix: 'paradose.github.io',
   title: 'Blog by John Doe',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
