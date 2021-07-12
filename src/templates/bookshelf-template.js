@@ -16,7 +16,7 @@ const BookshelfTemplate = () => {
       <Sidebar />
       <Page title="Bookshelf">
       <h3>in development ;-)</h3>
-      <p>but i'm currently reading: Design for the Real World - Victor Papanek</p>  
+      <p>but i'm currently reading: Kafka on the Shore - Haruki Murakami</p>  
       </Page>
     </Layout>
   );
