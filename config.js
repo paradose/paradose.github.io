@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://paradose.github.io',
+  url: 'https://paradoseblogs.netlify.app',
   pathPrefix:'/',
   title: 'Lauren Lok',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
