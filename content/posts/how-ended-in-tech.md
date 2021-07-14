@@ -10,24 +10,24 @@ tags:
 description: "Just a bit about my background and passion for technology and arts."
 socialImage: ""
 ---
-- [How it Started](#the-past)
-- [How it's Going](#the-present)
+- [How it Started](#how-it-started)
+- [How it's Going](#how-its-going)
 
 I'm Lauren Lok, an aspiring software engineer with a creative drive. I currently reside in Melbourne but come from the land below the wind aka Sabah, Malaysia. 
 
-## The Past
+## How it Started
 
 I first stepped foot in Melbourne back in 2016, with the eyes of becoming an activist for human rights and the dream of working for the United Nation. In Malaysia, I was exposed to the disparities and learnt so much about the world I had yet to explore. However, on the side I had an obsession with indie games, art and classical music- I did not have many chances to explore or express this side of me back home!  
 </br>
 <img src="/media/home.jpg">
 
-However, as more and more opportunities came my way, my passions shifted towards my side interests of emerging technology and the creative arts. I was able to express this more through meeting locals and internationals who shared the same passion and drive I had for both technology and the arts.
+However, as more and more opportunities came my way, my passions shifted towards my side interests of emerging technology and the creative arts. I was able to express this more through meeting many new people who shared the same level of passion and drive I had for achieving so much with technology.
 
-I guess that is where my ideas merged. I wanted to make an impact. I liked technology. <b>Why not learn how to build platforms that assists users in solving their problems and sharing information?</b>
+I guess that is where my ideas merged. I wanted to make an impact. I liked technology. <b>Why not learn how to build platforms that assists users in solving their problems?</b>
 
-## The Present
+## How it's Going
 
-Throughout Uni, I've been grasping opportunities outside of the textbooks to make full use of my programming skills and passion of learning new things. Whether that be doing hackathons with friends, picking up a new programming language, writing automation scripts for my spotify account- I enjoy creatively exploring the capabilities of evolving technologies with the idea that I'm making an impact, big or small.
+Throughout my degree, I've been grasping opportunities outside of the textbooks to make full use of my programming skills and passion of learning new things. Whether that be doing hackathons with friends, picking up a new programming language, writing automation scripts for my spotify account- I enjoy creatively exploring the capabilities of evolving technologies with the idea that I'm making an impact, big or small. 
 
 Technology is creative in itself and has endless possibilities. Nowadays, I've learnt how closely aligned tech is with design. It brings me joy that I can express the creative side of through being in the field of tech. Being creative literally- through designing website mockups, to being creative with code- coming up with endless solutions to a bug.
 
