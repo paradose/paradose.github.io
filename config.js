@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://paradoseblogs.netlify.app',
   pathPrefix:'/',
   title: 'Lauren Lok',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  subtitle: 'Aspiring Software Engineer with a creative drive.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -17,11 +17,11 @@ module.exports = {
     },
     {
       label: 'About me',
-      path: '/pages/about'
+      path: '/about'
     },
     {
-      label: 'Categories',
-      path: '/categories'
+      label: 'Portfolio',
+      path: '/portfolio'
     },
     {
       label: 'Bookshelf',
@@ -29,7 +29,7 @@ module.exports = {
     },
     {
       label: 'Contact me',
-      path: '/pages/contacts'
+      path: '/contactme'
     },
   ],
   author: {
