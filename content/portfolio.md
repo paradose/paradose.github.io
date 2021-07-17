@@ -3,17 +3,6 @@ title: "Portfolio"
 template: "page"
 socialImage: ""
 ---
-
-<div align="left">
-    <h4 align="center"><a href="/laurenlok-uiux.pdf" target="_blank">UX Research: Movie Recommendation App</a></h4>
-    <p align="center">
-        An application that connects users to their favorite movies and shows.</br> This was completed from my university course in application Usability, collaborating with a group of 3 others. In this project, I performed user research, wireframing and contributed to the design of the application.
-    </p>
-        <a href="/laurenlok-uiux.pdf" target="_blank"><img align="centre" src="/media/app.jpg" alt="Preview of UX Research" width=450></a>
-</div>
-
----
-
 <div align="left">
     <h4 align="center"><a href="https://www.figma.com/file/AVAtizhSlVVy540tcXFrPZ/Culie" target="_blank">Culie</a></h4>
     <p align="center">
@@ -22,6 +11,16 @@ socialImage: ""
        </p>
         <a href="https://www.figma.com/file/AVAtizhSlVVy540tcXFrPZ/Culie" target="_blank"><img src="/media/culie-dashboard.png" width=450 alt="culie app dashboard"></a>
     </p>
+</div>
+
+---
+
+<div align="left">
+    <h4 align="center"><a href="/laurenlok-uiux.pdf" target="_blank">UX Research: Movie Recommendation App</a></h4>
+    <p align="center">
+        An application that connects users to their favorite movies and shows.</br> This was completed from my university course in application Usability, collaborating with a group of 3 others. In this project, I performed user research, wireframing and contributed to the design of the application.
+    </p>
+        <a href="/laurenlok-uiux.pdf" target="_blank"><img align="centre" src="/media/app.jpg" alt="Preview of UX Research" width=450></a>
 </div>
 
 ---
